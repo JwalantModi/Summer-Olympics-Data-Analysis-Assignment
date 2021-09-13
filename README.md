@@ -1,2 +1,2 @@
 # Summer-Olympics-Data-Analysis-Assignment
-Summer Olympics Data Analysis Assignment, given by Elite Techno Groups
+Summer Olympics data analysis assignment, given by Elite Techno Groups
